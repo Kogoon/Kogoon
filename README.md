@@ -6,6 +6,12 @@
 잘 부탁드립니다.  
 
 <!--
+- - - 
+#### Hi there 👋 This is JunSung GO
+I am a Software Engineering.  
+I live in Seoul in Korea. 
+
+
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
