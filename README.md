@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+                                                        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)  
+                                                        
 안녕하세요 JunSungGo(@Kogoon)😃 입니다.  
 현재 정보보호학과💻 / 3학년에 재학중에 있습니다.  
 이것저것 열심히 공부하고 있습니다.  
