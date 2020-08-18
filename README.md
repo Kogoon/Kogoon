@@ -10,7 +10,7 @@
 안녕하세요! JunSungGo(@Kogoon)😃 입니다.  
 
 
-![Kogoon's github stats](https://github-readme-stats.vercel.app/api?username=Kogoon&show_icons=true&theme=cobalt)
+![Kogoon's github stats](https://github-readme-stats.vercel.app/api?username=Kogoon&show_icons=true&theme=dracula)
 
 <!--
 - - - 
