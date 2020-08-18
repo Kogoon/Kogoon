@@ -7,9 +7,10 @@
 </div>
 -->
                   
-안녕하세요 JunSungGo(@Kogoon)😃 입니다.  
-현재 정보보호학과💻 / 3학년에 재학중에 있습니다.  
-잘 부탁드립니다.  
+안녕하세요! JunSungGo(@Kogoon)😃 입니다.  
+
+
+![Kogoon's github stats](https://github-readme-stats.vercel.app/api?username=Kogoon&show_icons=true&theme=cobalt)
 
 <!--
 - - - 
