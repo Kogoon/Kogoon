@@ -9,7 +9,7 @@
                   
 안녕하세요! JunSungGo(@Kogoon)😃 입니다.  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Kogoon's github stats](https://github-readme-stats.vercel.app/api?username=Kogoon&show_icons=true&theme=dracula)
 
 ## 🔧 Technologies & Tools
