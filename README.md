@@ -6,6 +6,8 @@
  
 </div>
 -->
+
+![](https://img.shields.io/badge/language-Python-blue)
                   
 안녕하세요! JunSungGo(@Kogoon)😃 입니다.  
 
